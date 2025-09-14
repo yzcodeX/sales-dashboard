@@ -33,18 +33,22 @@ Die Daten stammen aus einer generierten CSV-Datei, die bereinigt und anschließe
   
 
 ## Verwendete Technologien
-Python, Pandas, Power BI, Jupyter Notebook
+### <ins>Daten bereinigen</ins>
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python-Logo">
+  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas-Logo">
 
-## Mockup & Design
-Mockups befinden sich im Ordner [design/](design/).
+### <ins>Dashboard</ins>
+  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI-Logo"> 
 
-Dashboard Mockup
+## Mockup & Design 
+- Mockups befinden sich im Ordner [design/](design/)
+- Präsentation (*.pptx*) und Vektordateien (*.svg*, *.drawio*) veranschaulichen Layout und geplante Visualisierungen
+  
+### <ins> Dashboard Mockup </ins>
 ![dashboard_mockup_draw.io](design/mockup_dashboard_skizze.PNG)
 
-Dashboard Design
+### <ins> Dashboard Design </ins>
 ![dashboard.PNG](design/dashboard.PNG)
 
-
-## Demo
 
 
