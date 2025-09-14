@@ -25,7 +25,7 @@ Die Daten stammen aus einer generierten CSV-Datei, die bereinigt und anschließe
        - 4-6 Bestellungen: Medium Order
        - 7-9 Bestellungen: Large Order
 4. Speichern der bereinigten Daten
-   - Bereingte CSV-Datei abgespeichert (sales_dataset_cleaned.csv)
+   - Bereingte CSV-Datei abgespeichert ([sales_dataset_cleaned.csv](datasets/sales_dataset_cleaned.csv))
 5. Dashboard-Erstellung in Power BI
    - Dashboard-Layout anhand Mockups umgesetzt
    - Bereinigte Daten geladen
@@ -36,7 +36,14 @@ Die Daten stammen aus einer generierten CSV-Datei, die bereinigt und anschließe
 Python, Pandas, Power BI, Jupyter Notebook
 
 ## Mockup & Design
-- Mockups befinden sich im Ordner [design/](design/)
+Mockups befinden sich im Ordner [design/](design/).
+
+Dashboard Mockup
+![dashboard_mockup_draw.io](design/mockup_dashboard_skizze.PNG)
+
+Dashboard Design
+![dashboard.PNG](design/dashboard.PNG)
+
 
 ## Demo
 
