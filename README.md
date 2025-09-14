@@ -43,9 +43,9 @@ Die Daten stammen aus einer generierten CSV-Datei, die bereinigt und anschließe
 ## Mockup & Design 
 - Mockups befinden sich im Ordner [design/](design/)
 - Präsentation (*.pptx*) und Vektordateien (*.svg*, *.drawio*) veranschaulichen Layout und geplante Visualisierungen
-  .
+  
 ### <ins> Dashboard Mockup </ins>
-
+![design/mockup_dashboard_skizze.PNG](design/mockup_dashboard_skizze.PNG)
 
 ### <ins> Dashboard Design </ins>
 ![dashboard.PNG](design/dashboard.PNG)
