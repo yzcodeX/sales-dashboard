@@ -1,4 +1,4 @@
-# sales-dashboard
+# <img width="30" height="30" alt="grafik" src="https://github.com/user-attachments/assets/5d939b85-bb97-4138-ae69-187658dcda34" /> Sales-Dashboard
 
 ## Projektbeschreibung
 
@@ -8,6 +8,26 @@ Die Daten stammen aus einer generierten CSV-Datei, die bereinigt und anschließe
 
 ## Projektstruktur
 
+```
+Sales-Dashboard-Project/
+│
+├── background/
+│   └── dashboard_background.jpg         # Hintergrundbild für das Dashboard
+│
+├── datasets/
+│   ├── sales_dataset.csv                # Original CSV-Daten
+│   └── sales_dataset_cleaned.csv        # Bereinigte CSV-Daten
+│
+├── design/
+│   ├── dashboard_design.pptx            # Dashboard-Präsentation
+│   ├── dashboard_design.svg             # Dashboard-Design-Vektor für Power BI
+│   └── dashboard_mockup.drawio          # Dashboard Mockup in draw.io
+│
+├── Dashboard_sales.pbix                 # Power BI Dashboard-Datei
+├── sales.ipynb                          # Jupyter Notebook mit EDA & Datenbereinigung
+├── LICENSE                              # MIT-Lizenz
+└── README.md                            # Projektbeschreibung
+```
 
 
 ## Vorhergehensweise
@@ -40,7 +60,8 @@ Die Daten stammen aus einer generierten CSV-Datei, die bereinigt und anschließe
 ### <ins>Dashboard</ins>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI-Logo"> 
 
-## Mockup & Design 
+## Mockup & Design
+
 - Mockups befinden sich im Ordner [design/](design/)
 - Präsentation (*.pptx*) und Vektordateien (*.svg*, *.drawio*) veranschaulichen Layout und geplante Visualisierungen
   
